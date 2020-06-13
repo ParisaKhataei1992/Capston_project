@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:alpha="0.6"
+    android:background="@drawable/gradient_list"
+    android:orientation="vertical"
+    android:id="@+id/bgGradient_RF3">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="5dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="5dp"
+        android:layout_marginBottom="5dp"
+        android:background="?attr/colorPrimary">
+
+        <EditText
+            android:id="@+id/country"
+            android:layout_width="260dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="25dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="30dp"
+            android:hint="Country" />
+
+        <EditText
+            android:id="@+id/region"
+            android:layout_width="260dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="25dp"
+            android:layout_marginTop="45dp"
+            android:layout_marginEnd="30dp"
+            android:hint="Region" />
+
+        <EditText
+            android:id="@+id/city"
+            android:layout_width="260dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="25dp"
+            android:layout_marginTop="85dp"
+            android:layout_marginEnd="30dp"
+            android:hint="City" />
+
+        <EditText
+            android:id="@+id/pCode"
+            android:layout_width="260dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="25dp"
+            android:layout_marginTop="125dp"
+            android:layout_marginEnd="30dp"
+            android:hint="Postal Code" />
+
+        <Button
+            android:id="@+id/nextR_3_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="85dp"
+            android:layout_marginTop="175dp"
+            android:layout_marginEnd="50dp"
+            android:text="NEXT" />
+    </RelativeLayout>
+
+</RelativeLayout>

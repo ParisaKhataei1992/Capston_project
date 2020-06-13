@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TopFit App</string>
+    <string name="clientName">""</string>
+    <string name="descr_t">
+        \n   <b>Description</b>
+        \n
+        \n       The superman exercise is great for the lower stretching
+        \n       and strengthening back and core muscles
+        \n
+        \n       Steps:
+        \n
+        \n       1.) Start off lying flat on your stomach with your arms
+        \n       stretched out in front of you.
+        \n
+        \n       2.) Slowly raise your arms and legs up off to the floor
+        \n       and hold onto this position for a few seconds until you
+        \n       feel a tight stretch in your core and back muscles
+        \n
+        \n       3.) Return back to starting position"</string>
+    <string name="glutesf">
+        \n   <b>Description</b>
+        \n
+        \n       Steps:
+        \n
+        \n       1.) To begin this exercise; start off by standing feet
+        \n       shoulder width apart and flex at your knees and torso
+        \n       sitting back with your hips.
+        \n
+        \n       2.) Extend your arms outin fromt ofyou with your hands
+        \n       clasped together and squat down until your knees are
+        \n       parallel with your glutes
+        \n
+        \n       3.) Return back to startrting position"</string>
+    <string name="title_activity_glutesf">glutesf</string>
+    <string name="core_f">\n
+        \n   <b>Description</b>
+        \n
+        \n       Steps:
+        \n
+        \n       1.) Start off by kneeling on all fours and aligning both
+        \n       hands right below your shoulders keep your knees
+        \n       beneath your hips.
+        \n
+        \n       2.) Extend both of your feet out behind you and squeeze
+        \n       on your core muscles, making sure that your body is
+        \n       aligned straight.
+        \n
+        \n       3.) Hold this position for about 30 seconds to a minute
+        \n
+        \n       4.) Release, return back to starting position and
+        \n       repeat as many times as would like to perform
+        \n       the exercise."</string>
+    <string name="bicep_f">
+        \n   <b>Description</b>
+        \n
+        \n       Steps:
+        \n
+        \n       1.) Start off by kneeling on all fours and aligning both
+        \h       ands right below your shoulders keep your knees
+        \n       beneath your hips.
+        \n
+        \n        2.) Extend both of your feet out behind you and squeeze
+        \n        on your core muscles, making sure that your body is
+        \n        aligned straight.
+        \n
+        \n        3.) Hold this position for about 30 seconds to a minute
+        \n
+        \n        4.) Release, return back to starting position and
+        \n        repeat as many times as would like to perform
+        \n        the exercise."</string>
+    <string name="shoulder_f">
+        \n   <b>Description</b>
+        \n
+        \n       Steps:
+        \n
+        \n       1.) Start off standing up straight with your feet shoulder
+        \n       width apart and your arms extended out to your sides
+        \n       so that you create a "T" shape and should be parallel to.
+        \n       the flor.
+        \n
+        \n       2.) Slowly make circles with your arms feeling a stretch
+        \n       in your shoulders as you continue to rotate in a circular
+        \n       motion.
+        \n
+        \n       3.) Continue this motion for 10 to 20 seconds then
+        \n       return to the starting position.
+        \n
+        \n       4.) Repeat for as many reps and sets as desired.
+        "</string>
+    <string name="legs_f">
+        \n   <b>Description</b>
+        \n
+        \n       Steps:
+        \n
+        \n       1.) Start off setting up either a step or a block next to
+        \n       either a support structure or smith machine.
+        \n
+        \n       2.) Place the balls of your feet on the edge of the block/
+        \n       step and let your heels drop down towards the floor as
+        \n       far as possible.
+        \n
+        \n       3.) Then slowly raise your heels up as high as possible
+        \n       squeezing your claves and hold for a count.
+        \n
+        \n       4.) Return back to starting position.
+        \n
+        \n       5.) Repeat for as many reps and sets as desired.
+        "</string>
+    <string name="lunges_f">
+        \n   <b>Description</b>
+        \n
+        \n       Steps:
+        \n
+        \n       1.) Start off by standing with your feet about 8 inches
+        \n       apart smd toes facing forward as this will be your
+        \n       starting position.
+        \n
+        \n       2.) Once is position take a step forward(about 2 to
+        \n       3 feet), keeping your abd tightly drawn and your
+        \n       upper body straight.
+        \n
+        \n       3.) Continue forward and slowly lower one knee down
+        \n       towards the ground and keeping the other knee bent at
+        \n       a 90 degree angle, not letting the back knee touch the
+        \n       ground
+        \n
+        \n       4.) Slowly lower one knee down as if kneeling while
+        \n       keeping your other knee bent at 90 degree angle,do
+        \n       not let your knee touch the ground.
+        \n
+        \n       5.) Hold the position for a count then return back up
+        \n       to starting position.
+        "</string>
+    <string name="chest_f">
+        \n   <b>Description</b>
+        \n
+        \n       Steps:
+        \n
+        \n       1.) Start off by lying face down one the floor or on mat
+        \n       with your feet together and arms shoulder width apart.
+        \n
+        \n       2.) Slowly drawn your abs in , inhale and raise your body
+        \n       off of the floor until your arms are straight, kneeling
+        \n       your head and neck level with your body as this will be
+        \n       your starting position.
+        \n
+        \n       3.) As you lower yourself down towards the ground,
+        \n       exhale until your chest almost touches the ground and
+        \n       you feel a stretch in your chest muscles.
+        \n
+        \n       4.) Hold for a count at the bottom position and then
+        \n       return back up yo the starting position.
+         "</string>
+    <string name="forearm_f">
+        \n   <b>Description</b>
+        \n
+        \n       Steps:
+        \n
+        \n       1.) To begin this exercise; take one dumbbell and sit
+        \n       down to the edge of flat bench and keep your feet on.
+        \n       the floor.
+        \n
+        \n       2.) Take the dumbbell and bring it up so that your
+        \n       forearm and arm are rested on your knee;and the palm
+        \n       of your hand is facing up.
+        \n
+        \n       3.) Curl the dumbbells up, through your wrist until you
+        \n       feel a stretch in the muscle.
+        \n
+        \n       4.) Hold this position  for a count and then lower the
+        \n       dumbbell back to the starting position.
+        \n
+        \n       5.) Repeat for as many reps ans sets as desired.
+         "</string>
+    <string name="triceps_f">
+        \n   <b>Description</b>
+        \n
+        \n       Steps:
+        \n
+        \n       1.) Start off setting up a flat bench and positioning
+        \n       yourself in between the bench so that your hands are
+        \n       about shoulder width apart on the bench.
+        \n
+        \n       2.) Move your feet out in front of you so that your legs
+        \n       are straight.
+        \n
+        \n       3.) Then straight your arms out on the bench so that
+        \n       you are elevated and tension is paced om your triceps.
+        \n
+        \n       4.) Slowly lower your upper body down towards the
+        \n       floor with your elbows sp that are at level with your
+        \n       shoulders.
+        \n
+        \n       5.) Hold for a count, squeezing your triceps and return
+        \n       back to the starting position.
+        \n
+        \n       6.) Repeat for as many reps and sets as desired.
+
+         "</string>
+    <string name="triceps_m">
+        \n   <b>Description</b>
+        \n
+        \n       Steps:
+        \n
+        \n       1.) Start off setting up a chair and positioning
+        \n       yourself in between the chair so that your hands are
+        \n       about shoulder width apart on the bench.
+        \n
+        \n       2.) Move your feet out in front of you so that your legs
+        \n       are straight.
+        \n
+        \n       3.) Then straight your arms out on the chair so that
+        \n       you are elevated and tension is paced om your triceps.
+        \n
+        \n       4.) Slowly lower your upper body down towards the
+        \n       floor with your elbows sp that are at level with your
+        \n       shoulders.
+        \n
+        \n       5.) Hold for a count, squeezing your triceps and return
+        \n       back to the starting position.
+        \n
+        \n       6.) Repeat for as many reps and sets as desired.
+
+         "</string>
+    <string name="forearm_m">
+        \n   <b>Description</b>
+        \n
+        \n       Steps:
+        \n
+        \n       1.) Start off on your hands and knees in a modified
+        \n       push up position.
+        \n
+        \n       2.) Squeeze your glutes and bring one elbow down to
+        \n       the floor followed by the other so that your upper body
+        \n       is rested upon your forearms.
+        \n
+        \n       3.) Return back to the starting position by straightening
+        \n       out one arm and then the other.
+        \n
+        \n       5.) Repeat for as many reps ans sets as desired.
+         "</string>
+    <string name="shoulders_m">
+        \n   <b>Description</b>
+        \n
+        \n       Steps:
+        \n
+        \n       1.) Start off on your by placing chair on the floor
+        \n       and then kneeling behind the chair with you arms
+        \n       fully extended and body straight.
+        \n
+        \n       2.) While keeping your abs drawn in and body straight
+        \n       lower your chest down towards the chair until you feel
+        \n       a stretch  in your chest muscles.
+        \n
+        \n       3.) Hold the position for a count and then slowly return
+        \n       back up to the starting position.
+        "</string>
+    <string name="lunges_m">
+        \n   <b>Description</b>
+        \n
+        \n       Steps:
+        \n
+        \n       1.) Start off by standing with your feet about 8 inches
+        \n       apart smd toes facing forward as this will be your
+        \n       starting position.
+        \n
+        \n       2.) Once is position take a step forward(about 2 to
+        \n       3 feet), keeping your abd tightly drawn and your
+        \n       upper body straight.
+        \n
+        \n       3.) Continue forward and slowly lower one knee down
+        \n       towards the ground and keeping the other knee bent at
+        \n       a 90 degree angle, not letting the back knee touch the
+        \n       ground
+        \n
+        \n       4.) Slowly lower one knee down as if kneeling while
+        \n       keeping your other knee bent at 90 degree angle,do
+        \n       not let your knee touch the ground.
+        \n
+        \n       5.) Hold the position for a count then return back up
+        \n       to starting position.
+        "</string>
+    <string name="chest_m">
+        \n   <b>Description</b>
+        \n
+        \n       Steps:
+        \n
+        \n       1.) Start off by lying face down one the floor or on mat
+        \n       with your feet together and arms shoulder width apart.
+        \n
+        \n       2.) Slowly drawn your abs in , inhale and raise your body
+        \n       off of the floor until your arms are straight, kneeling
+        \n       your head and neck level with your body as this will be
+        \n       your starting position.
+        \n
+        \n       3.) As you lower yourself down towards the ground,
+        \n       exhale until your chest almost touches the ground and
+        \n       you feel a stretch in your chest muscles.
+        \n
+        \n       4.) Hold for a count at the bottom position and then
+        \n       return back up yo the starting position.
+         "</string>
+    <string name="core_m">
+        \n   <b>Description</b>
+        \n
+        \n       Steps:
+        \n
+        \n       1.) Start off by placing your hands across your chest or
+        \n       on either side of your head as this will be your starting
+        \n       position.
+        \n
+        \n       2.) Then slowly raise your upper body(head,shoulders
+        \n       and chest)up off of the floor and towards your knees,
+        \n       squeezing and crunching your abs.
+        \n
+        \n       3.) Hold this position for a count, squeezing your abs,
+        \n       the return back to the starting position.
+        "</string>
+    <string name="back_m">
+        \n   <b>Description</b>
+        \n
+        \n       The superman exercise is great for the lower stretching
+        \n       and strengthening back and core muscles
+        \n
+        \n       Steps:
+        \n
+        \n       1.) Start off lying flat on your stomach with your arms
+        \n       stretched out in front of you.
+        \n
+        \n       2.) Slowly raise your arms and legs up off to the floor
+        \n       and hold onto this position for a few seconds until you
+        \n       feel a tight stretch in your core and back muscles
+        \n
+        \n       3.) Return back to starting position"</string>
+    <string name="glutes_m">
+        \n   <b>Description</b>
+        \n
+        \n       Steps:
+        \n
+        \n       1.) To begin this exercise; start off by standing feet
+        \n       shoulder width apart and flex at your knees and torso
+        \n       sitting back with your hips.
+        \n
+        \n       2.) Extend your arms outin front ofyou with your hands
+        \n       clasped together and squat down until your knees are
+        \n       parallel with your glutes
+        \n
+        \n       3.) Return back to starting position"</string>
+
+    <string name="Title_descr_t">
+        \n <h1>Superman</h1>
+    </string>
+    <string name="Title_glutesf">
+        \n <h1>Sit Squat</h1>
+    </string>
+    <string name="Title_core_f">
+        \n <h1>Plank</h1>
+    </string>
+    <string name="Title_bicep_f">
+        \n <h1>Superman</h1>
+    </string>
+    <string name="Title_shoulder_f">
+        \n <h1>Arm Circles</h1>
+    </string>
+    <string name="Title_legs_f">
+        \n <h1>Calf Raise</h1>
+    </string>
+    <string name="Title_lunges_f">
+        \n <h1>Lunges</h1>
+    </string>
+
+    <string name="Title_chest_f">
+        \n <h1>Push Up</h1>
+    </string>
+    <string name="Title_forearm_f">
+        \n <h1>Dumbbell Wrist Curl</h1>
+    </string>
+    <string name="Title_triceps_f">
+        \n <h1>Single Bench Dip</h1>
+    </string>
+    <string name="Title_triceps_m">
+        \n <h1>Single Chair Dip</h1>
+    </string>
+    <string name="Title_forearm_m">
+        \n <h1>Push Up to Forearms</h1>
+    </string>
+    <string name="Title_shoulders_m">
+        \n <h1>Push Up on Chair</h1>
+    </string>
+    <string name="Title_lunges_m">
+        \n <h1>Lunges</h1>
+    </string>
+    <string name="Title_chest_m">
+        \n <h1>Push Up</h1>
+    </string>
+    <string name="Title_core_m">
+        \n <h1>Crunches</h1>
+    </string>
+    <string name="Title_back_m">
+        \n <h1>Superman</h1>
+    </string>
+    <string name="Title_glutes_m">
+        \n <h1>Sit Squat</h1>
+    </string>
+    
+    <string-array name="spinnerBodyTypeItems">
+        <item>NONE</item>
+        <item>ECTOMORPH</item>
+        <item>MESOMORPH</item>
+        <item>ENDOMORPH</item>
+    </string-array>
+
+</resources>
+

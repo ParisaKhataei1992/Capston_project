@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_horizontal">
+    <EditText
+        android:id="@+id/edFName"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="50dp"/>
+    <EditText
+        android:id="@+id/edLName"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="95dp"/>
+    <EditText
+        android:id="@+id/edHeight"
+        android:layout_width="251dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="140dp" />
+    <EditText
+        android:id="@+id/edWeight"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="185dp" />
+<!--    <EditText-->
+<!--        android:id="@+id/edBodyType"-->
+<!--        android:layout_width="250dp"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginTop="230dp" />-->
+    <Spinner
+        android:id="@+id/spinnerBodyType"
+        android:layout_width="250dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="230dp"/>
+
+    <RadioGroup
+        android:id="@+id/radioSex"
+        android:layout_width="250dp"
+        android:layout_height="30dp"
+        android:layout_marginTop="285dp"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/radioMale"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Male"
+            android:layout_marginStart="25dp"/>
+
+        <RadioButton
+            android:id="@+id/radioFemale"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="45dp"
+            android:text="Female" />
+
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/btnUpdateClient"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="400dp"
+        android:text="Make a Change"/>
+
+</RelativeLayout>

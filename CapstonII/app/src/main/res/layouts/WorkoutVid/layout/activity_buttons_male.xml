@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@android:color/background_dark"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".WOV.VideoButtonsMale">
+
+    <ScrollView
+
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout_editor_absoluteX="192dp"
+        tools:layout_editor_absoluteY="283dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <Button
+                android:id="@+id/btn_back_activity"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@android:color/background_light"
+                android:text="Back To Activity Menu"
+                android:textAlignment="center"/>
+
+
+            <Button
+                android:id="@+id/btn_biceps_m"
+                android:layout_width="match_parent"
+                android:layout_height="213dp"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/try2" />
+
+
+            <Button
+                android:id="@+id/btn_triceps_m"
+                android:layout_width="match_parent"
+                android:layout_height="213dp"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/try3" />
+
+            <Button
+                android:id="@+id/btn_forearm_n"
+                android:layout_width="match_parent"
+                android:layout_height="213dp"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/forearm" />
+
+            <Button
+                android:id="@+id/btn_back_m"
+                android:layout_width="match_parent"
+                android:layout_height="213dp"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/back1" />
+
+            <Button
+                android:id="@+id/btn_chest_m"
+                android:layout_width="match_parent"
+                android:layout_height="213dp"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/chest1" />
+
+            <Button
+                android:id="@+id/btn_glutes_m"
+                android:layout_width="match_parent"
+                android:layout_height="213dp"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/glutes1" />
+
+            <Button
+                android:id="@+id/btn_shoulders_m"
+                android:layout_width="match_parent"
+                android:layout_height="213dp"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/shoulders1" />
+
+            <Button
+                android:id="@+id/btn_claves_m"
+                android:layout_width="match_parent"
+                android:layout_height="213dp"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/calves1" />
+
+            <Button
+                android:id="@+id/btn_core_m"
+                android:layout_width="match_parent"
+                android:layout_height="213dp"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/core2" />
+
+
+            <Button
+                android:id="@+id/btn_upperleg_m"
+                android:layout_width="match_parent"
+                android:layout_height="213dp"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/upperlegs1" />
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>
